@@ -7,7 +7,7 @@ This project is aimed at comparing my personal data about sleeping and other hea
  -Fitbit data
  
  
-The project can be refactored to include more user input so that the date range and which variables to compare take user
+The project can be refactored to include more user input so that the date range, fitbit/cpap file locations, and which variables to compare take user
 input and then return the results. I had no need for this so it is still as is. Might revisit in the future and refactor this.
         
         
